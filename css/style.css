@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: #d6d2cc;   
+}
+
+h1 {
+    color: rgb(36, 27, 11)
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+
+#dodaj {
+    background-color: rgb(47, 97, 6);
+}
+
+#usun {
+    background-color: rgb(207, 27, 57);
+}
